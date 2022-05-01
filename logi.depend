@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1604515004 source:d:\programy\moje c++\logi\main.cpp
+	<iostream>
+	<fstream>
+	"Czas.h"
+
+1604514029 d:\programy\moje c++\logi\czas.h
+	<iostream>
+	<windows.h>
+
